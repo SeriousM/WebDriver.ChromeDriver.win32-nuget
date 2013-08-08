@@ -6,7 +6,7 @@
         <authors>SeriousM</authors>
         <owners>chromedriver</owners>
         <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
-        <projectUrl>https://code.google.com/p/chromedriver/</projectUrl>
+        <projectUrl>https://github.com/SeriousM/WebDriver.ChromeDriver.win32-nuget</projectUrl>
         <iconUrl>https://ssl.gstatic.com/codesite/ph/images/defaultlogo.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>ChromeDriver.exe from https://code.google.com/p/chromedriver/downloads/list</description>
