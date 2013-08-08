@@ -15,9 +15,4 @@
         <language />
         <tags>chrome chromedriver webdriver selenium</tags>
     </metadata>
-    <files>
-        <file src="tools\chromedriver\chromedriver.exe" target="tools\chromedriver\chromedriver.exe" />
-        <file src="tools\install.ps1" target="tools\install.ps1" />
-        <file src="tools\uninstall.ps1" target="tools\uninstall.ps1" />
-    </files>
 </package>
