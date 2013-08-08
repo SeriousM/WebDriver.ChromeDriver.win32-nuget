@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>WebDriver.ChromeDriver.win32</id>
+        <version>2.2</version>
+        <authors>SeriousM</authors>
+        <owners>chromedriver</owners>
+        <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
+        <projectUrl>https://code.google.com/p/chromedriver/</projectUrl>
+        <iconUrl>https://ssl.gstatic.com/codesite/ph/images/defaultlogo.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>ChromeDriver.exe from https://code.google.com/p/chromedriver/downloads/list</description>
+        <releaseNotes>ChromeDriver executable as a NuGet package.</releaseNotes>
+        <copyright />
+        <language />
+        <tags>chrome chromedriver webdriver selenium</tags>
+    </metadata>
+    <files>
+        <file src="tools\chromedriver\chromedriver.exe" target="tools\chromedriver\chromedriver.exe" />
+        <file src="tools\install.ps1" target="tools\install.ps1" />
+        <file src="tools\uninstall.ps1" target="tools\uninstall.ps1" />
+    </files>
+</package>
