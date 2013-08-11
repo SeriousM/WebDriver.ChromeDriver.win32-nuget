@@ -4,7 +4,7 @@
         <id>WebDriver.ChromeDriver.win32</id>
         <version>2.2.0.1</version>
         <authors>SeriousM</authors>
-        <owners>chromedriver</owners>
+        <owners>SeriousM</owners>
         <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
         <projectUrl>https://github.com/SeriousM/WebDriver.ChromeDriver.win32-nuget</projectUrl>
         <iconUrl>https://ssl.gstatic.com/codesite/ph/images/defaultlogo.png</iconUrl>
