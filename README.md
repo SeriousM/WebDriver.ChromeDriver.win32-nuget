@@ -1,3 +1,3 @@
 # ChromeDriver.exe win32
 
-Binaries from https://code.google.com/p/chromedriver/downloads/list
+Binaries from http://chromedriver.storage.googleapis.com/index.html
