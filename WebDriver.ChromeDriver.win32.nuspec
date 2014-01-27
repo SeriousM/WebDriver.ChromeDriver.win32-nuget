@@ -9,8 +9,10 @@
         <projectUrl>https://github.com/SeriousM/WebDriver.ChromeDriver.win32-nuget</projectUrl>
         <iconUrl>https://raw2.github.com/SeriousM/WebDriver.ChromeDriver.win32-nuget/master/icon.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>ChromeDriver.exe from http://chromedriver.storage.googleapis.com/index.html</description>
+        <description>ChromeDriver.exe chromedriver.storage.googleapis.com. If you need an update, just drop me a line or create a pull request on github.com/SeriousM/WebDriver.ChromeDriver.win32-nuget.</description>
         <releaseNotes>ChromeDriver executable as a NuGet package.</releaseNotes>
+		<summary>ChromeDriver from chromedriver.storage.googleapis.com</summary>
+		<title>ChromeDriver from chromedriver.storage.googleapis.com</title>
         <copyright />
         <language />
         <tags>chrome chromedriver webdriver selenium</tags>
