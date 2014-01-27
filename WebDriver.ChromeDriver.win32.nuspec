@@ -2,12 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>WebDriver.ChromeDriver.win32</id>
-        <version>2.7.0.0</version>
+        <version>2.8.0.0</version>
         <authors>SeriousM</authors>
         <owners>SeriousM</owners>
         <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
         <projectUrl>https://github.com/SeriousM/WebDriver.ChromeDriver.win32-nuget</projectUrl>
-        <iconUrl>https://ssl.gstatic.com/codesite/ph/images/defaultlogo.png</iconUrl>
+        <iconUrl>https://raw2.github.com/SeriousM/WebDriver.ChromeDriver.win32-nuget/master/icon.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>ChromeDriver.exe from http://chromedriver.storage.googleapis.com/index.html</description>
         <releaseNotes>ChromeDriver executable as a NuGet package.</releaseNotes>
