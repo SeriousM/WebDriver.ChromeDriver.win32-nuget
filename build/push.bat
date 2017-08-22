@@ -3,7 +3,7 @@
 set PWD="%CD%"
 set NUGET=%PWD%\NuGet.exe
 
-set /P APIKEY=Enter your Api Key from https://www.nuget.org/account: 
+set /P APIKEY=Enter your Api Key from https://www.nuget.org/account/ApiKeys: 
 
 if "%APIKEY%"=="" GOTO ERROR
 
