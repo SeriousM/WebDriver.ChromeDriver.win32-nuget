@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>WebDriver.ChromeDriver.win32</id>
-        <version>85.0.4183.87</version>
+        <version>86.0.4240.22</version>
         <authors>SeriousM</authors>
         <owners>SeriousM</owners>
         <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
